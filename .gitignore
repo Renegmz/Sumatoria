@@ -30,8 +30,3 @@
 *.exe
 *.out
 *.app
-
-# ignora todos los archivos del directorio nbproject/
-nbproject/
-/build/
-/dist/
